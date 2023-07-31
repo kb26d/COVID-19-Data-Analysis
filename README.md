@@ -8,7 +8,7 @@ Data collection of daily rising coronavirus cases and interpreting the dataset. 
 ](https://public.tableau.com/views/WorldwideCOVID-19PandemicScenario_16905705878470/COVID-19Overview_1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 ## DATASET: 
 In this project, I have taken dataset from COVID-19 dataset which is a collection of the COVID-19 data maintained by Our World in Data. This is an updated sheet on daily basis which covers number of confirmed cases, deaths, hospitalizations, testing, etc. I have used dataset comprising of worldwide number of confirmed cases and deaths which is from the European Centre for Disease Prevention and Control (ECDC).
-The dataset can be accessed using the link:  https://covid.ourworldindata.org/data/owid-covid-data.csv
+
 
 ## PROJECT: 
 Coronavirus disease (COVID-19) is a infectious disease caused by a newly discovered coronavirus. As of now, overall number of global coronavirus cases has surpassed 49 million and deaths have increased to over 1.2 million. As of now, more than 33 million people across the globe have recovered from this deadly virus.
