@@ -17,6 +17,6 @@ The objective of this project is to create interactive dashboards showing how CO
 
 ## DASHBOARD:
 ![Geo map dashboard](/screenshots/COVID-19 Overview_1.png?raw=true "Geo_map_dashboard")
-
+<img width="1440" alt="Screenshot" src="public/Screenshot.png">
 
 ![Bar chart dashboard](/screenshots/COVID-19 Overview_2.png?raw=true "Bar_chart_dashboard")
