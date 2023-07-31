@@ -16,7 +16,8 @@ Coronavirus disease (COVID-19) is a infectious disease caused by a newly discove
 The objective of this project is to create interactive dashboards showing how COVID-19 has impacted across countries. It displays the spread of coronavirus and daily reported cases across 10 worst affected countries.
 
 ## DASHBOARD:
-![Geo map dashboard](/screenshots/COVID-19 Overview_1.png?raw=true "Geo_map_dashboard")
-<img width="1440" alt="Screenshot" src="Screenshot/COVID-19 Overview_1.png">
+<img alt="Geo map dashboard" src="Screenshot/COVID-19 Overview_1.png">
+<img alt="Bar chart dashboard" src="Screenshot/COVID-19 Overview_2.png">
 
-![Bar chart dashboard](/screenshots/COVID-19 Overview_2.png?raw=true "Bar_chart_dashboard")
+
+
